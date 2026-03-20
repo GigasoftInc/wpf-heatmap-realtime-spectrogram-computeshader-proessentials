@@ -10,7 +10,7 @@ spectrum analyzer without any vertical drift.
 > See [wpf-heatmap-spectrogram-wave-data-proessentials](https://github.com/GigasoftInc/wpf-heatmap-spectrogram-wave-data-proessentials) —
 > same chart configuration, no timer, ideal as a starting point.
 
-![ProEssentials Realtime Heatmap](https://gigasoft.com/wpf-chart/screenshots/screen139.png)
+![ProEssentials Realtime Heatmap](docs/wpf-heatmap-spectrogram-gigasoft-139.png)
 
 ---
 
