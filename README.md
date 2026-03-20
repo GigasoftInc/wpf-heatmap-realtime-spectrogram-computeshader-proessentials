@@ -7,7 +7,7 @@ shifting — the full frequency landscape scrolls left/right like a live
 spectrum analyzer without any vertical drift.
 
 > **Looking for the simpler non-realtime version?**
-> See [wpf-heatmap-spectrogram-wave-data-proessentials](https://github.com/GigasoftInc/wpf-heatmap-spectrogram-wave-data-proessentials) —
+> See [wpf-heatmap-spectrogram-wave-data-proessentials](https://github.com/GigasoftInc/wpf-heatmap-2d-contour-spectrogram-frequency-proessentials) —
 > same chart configuration, no timer, ideal as a starting point.
 
 ![ProEssentials Realtime Heatmap](docs/wpf-heatmap-spectrogram-gigasoft-139.png)
